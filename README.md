@@ -2,6 +2,9 @@
 
 ### Farzad looking for data https://twitter.com/Farzad_MD/status/1653502166617804802?s=20
 ### Partial analysis in response https://twitter.com/MANas8U/status/1653917573757685760?s=20
+![Alt text](https://github.com/mangospace/MA-growth-2022-2023/blob/32585d6c95ad9807113f81db23d307624b464b26/newplot.png 
+) "Growth of Medicare Advantage")
+
 
 
 | state   |   enrollment_22 |   enrollment_23 |   Enrollment Delta |   MA membership change % |
