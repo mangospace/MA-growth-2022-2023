@@ -7,7 +7,7 @@
 
 
 
-| state   |   enrollment_22 |   enrollment_23 |   Enrollment Delta |   MA membership change % |
+| state   |MA_Enrollment_22 |MA_Enrollment_23 |   Enrollment Delta |   MA membership change % |
 |:--------|----------------:|----------------:|-------------------:|-------------------------:|
 | AK      |           67790 |           70736 |               2946 |                     4.35 |
 | AL      |          832408 |          845866 |              13458 |                     1.62 |
